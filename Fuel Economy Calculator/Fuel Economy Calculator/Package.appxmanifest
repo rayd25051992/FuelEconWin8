@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="32694rayd250592.FuelEconomyCalculator" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.0" />
+  <Identity Name="32694rayd250592.FuelEconomyCalculator" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.1" />
   <Properties>
     <DisplayName>Fuel Economy Calculator</DisplayName>
     <PublisherDisplayName>rayd_250592</PublisherDisplayName>
@@ -21,7 +21,4 @@
       </VisualElements>
     </Application>
   </Applications>
-  <Capabilities>
-    <Capability Name="internetClient" />
-  </Capabilities>
 </Package>

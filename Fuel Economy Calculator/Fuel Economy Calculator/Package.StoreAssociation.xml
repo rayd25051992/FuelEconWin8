@@ -372,5 +372,10 @@
     <MainPackageIdentityName>32694rayd250592.TeachMeBinary</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.WindowClean</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/37ac5926-cfa0-4f11-bab0-f54cf14b6a83" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/37ac5926-cfa0-4f11-bab0-f54cf14b6a83">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.0</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>
